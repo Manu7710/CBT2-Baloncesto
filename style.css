@@ -70,7 +70,20 @@ main{
     text-align: center;
 }
 
-.news-content{
+.bases{
+    font-size: 1.5rem;
+    font-family: 'Black Ops One', system-ui;
+    text-align: center;
+}
+
+.line{
+    background: orange;
+    height: 5px;
+    width: 100%;
+    display: block;
+}
+
+.bases-content{
     font-size: 1rem;
     font-family: Arial, Helvetica, sans-serif;
     justify-self: center;
