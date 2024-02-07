@@ -97,6 +97,10 @@ h2{
     width: 40rem;
 }
 
+video{
+    width: 30rem;
+}
+
 .Table{
     display: flex;
     padding: 4rem;
@@ -279,6 +283,10 @@ h6{
         width: 33rem;
     }
 
+    video{
+        width: 20rem;
+    }
+
     .table-img{
         width: 33rem;
     }
@@ -310,6 +318,10 @@ h6{
 
     .poster{
         width: 20rem;
+    }
+
+    video{
+        width: 15rem;
     }
 
     .table-img{
